@@ -1,0 +1,1 @@
+Um simples repositório para treinar os comando do Git.
